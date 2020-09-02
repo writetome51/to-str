@@ -1,6 +1,6 @@
 # toStr(arg): string
 
-Returns `arg` as string (durr).  
+Returns `arg` as string (I know, durr).  
 81% faster than <code>String(arg)</code>.  
 62% faster than <code>\`${arg}\`</code>.  
 (Tested at  https://jsbench.me/)
